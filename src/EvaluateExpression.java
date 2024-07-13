@@ -1,4 +1,11 @@
 package chapter20;
+/*
+ * CS 2013
+ * Homework Assignment 02
+ * Benjamin Saucedo
+ * Modify EvaluateExpression.java to add operators ^ for the exponent and % for the remainder.
+ * The ^ operator has the highest precedence and the % operator has the same precedence as the * and / operators.
+ */
 
 import java.util.Stack;
 import javafx.application .Application;
